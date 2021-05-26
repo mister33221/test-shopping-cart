@@ -1,0 +1,17 @@
+-- ----------product_item table----------------
+drop table if exists product_item;
+
+create table product_item(
+	product_item_id int primary key not null auto_increment,
+    product_item_name varchar(40) not null,
+    product_intro text,
+    product_summary text,
+    product_stock_number int null
+);
+insert into product_item(product_item_name, product_intro, product_summary, product_stock_number)
+values
+("手裡劍1", "可以用來丟人", "可以讓人扣1滴血", 100),
+("手裡劍2", "可以用來丟人", "可以讓人扣2滴血", 200),
+("手裡劍3", "可以用來丟人", "可以讓人扣3滴血", 300),
+("手裡劍4", "可以用來丟人", "可以讓人扣4滴血", 400),
+("手裡劍5", "可以用來丟人", "可以讓人扣5滴血", 500);

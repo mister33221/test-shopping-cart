@@ -1,0 +1,19 @@
+-- -----manage_system--------
+drop table if exists manage_system;
+
+create table manage_system(
+	manage_id int primary key not null auto_increment,
+    manage_name varchar(20) not null,
+    manage_status int not null,
+    manage_cel varchar(20) not null,
+    manage_mail varchar(20) not null,
+    manage_password varchar(20) not null,
+    manage_set_time timestamp not null
+);
+insert into manage_system(manage_name, manage_status, manage_cel, manage_mail, manage_password, manage_set_time)
+values
+("宇智波斑", 0, "0999999999", "9999@gmail.com", "9999", now()),
+("佩恩", 0, "0988888888", "8888@gmail.com", "8888", now()),
+("宇智波鼬", 0, "0977777777", "7777@gmail.com", "7777", now()),
+("大蛇丸", 0, "0966666666", "6666@gmail.com", "6666", now()),
+("蠍", 0, "0955555555", "5555@gmail.com", "5555", now());

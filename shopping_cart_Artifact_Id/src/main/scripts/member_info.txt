@@ -1,0 +1,29 @@
+-- ----------member_info table---------------
+DROP TABLE IF EXISTS member_info;
+
+create table member_info (
+	member_id int primary key auto_increment,
+    member_mail varchar(50) not null,
+    member_password varchar(8) not null, 
+    member_name varchar(50) not null,
+    member_pic longblob ,
+    member_cel varchar(20) not null,
+    member_address varchar(100) not null,
+    member_profile varchar(100) ,
+    register_time timestamp not null,
+    member_status varchar(1) not null,
+    creditcard_number char(16),
+    creditcard_deadline char(4),
+    creditcard_code char(3)
+);
+
+insert into member_info(member_mail, member_password, member_name, 
+member_pic, member_cel, member_address, member_profile, register_time, 
+member_status, creditcard_number, creditcard_deadline, creditcard_code)
+values
+("1111@gmail.com", "1111", "customer1", load_file("D:/shopping_cart_test_photo/member_info/customer1.jpg"), "0911111111", "新北市中和區", "我是第一任火影，必須給我一折", now(), "1", "", "", ""),
+("2222@gmail.com", "2222", "customer2", load_file("D:/shopping_cart_test_photo/member_info/customer2.jpg"), "0922222222", "新北市永和區", "我是第二任火影，必須給我兩折", now(), "1", "", "", ""),
+("3333@gmail.com", "3333", "customer3", load_file("D:/shopping_cart_test_photo/member_info/customer3.png"), "0933333333", "新北市土城區", "我是第三任火影，必須給我三折", now(), "1", "", "", ""),
+("4444@gmail.com", "4444", "customer4", load_file("D:/shopping_cart_test_photo/member_info/customer4.jpg"), "0944444444", "新北市新莊區", "我是第四任火影，必須給我四折", now(), "1", "", "", ""),
+("5555@gmail.com", "5555", "customer5", load_file("D:/shopping_cart_test_photo/member_info/customer5.jpg"), "0955555555", "新北市新店區", "我是第五任火影，必須給我五折", now(), "1", "", "", "");
+

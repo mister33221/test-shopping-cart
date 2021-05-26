@@ -1,0 +1,117 @@
+drop database  if exists shopping_cart_test;
+create database if not exists shopping_cart_test;
+
+use shopping_cart_test;
+
+-- ----------member_info table---------------
+DROP TABLE IF EXISTS member_info;
+
+create table member_info (
+	member_id int primary key auto_increment,
+    member_mail varchar(50) not null,
+    member_password varchar(8) not null, 
+    member_name varchar(50) not null,
+    member_pic longblob ,
+    member_cel varchar(20) not null,
+    member_address varchar(100) not null,
+    member_profile varchar(100) ,
+    register_time timestamp not null,
+    member_status varchar(1) not null,
+    creditcard_number char(16),
+    creditcard_deadline char(4),
+    creditcard_code char(3)
+);
+
+insert into member_info(member_mail, member_password, member_name, 
+member_pic, member_cel, member_address, member_profile, register_time, 
+member_status, creditcard_number, creditcard_deadline, creditcard_code)
+values
+("1111@gmail.com", "1111", "customer1", load_file("D:/shopping_cart_test_photo/member_info/customer1.jpg"), "0911111111", "新北市中和區", "我是第一任火影，必須給我一折", now(), "1", "", "", ""),
+("2222@gmail.com", "2222", "customer2", load_file("D:/shopping_cart_test_photo/member_info/customer2.jpg"), "0922222222", "新北市永和區", "我是第二任火影，必須給我兩折", now(), "1", "", "", ""),
+("3333@gmail.com", "3333", "customer3", load_file("D:/shopping_cart_test_photo/member_info/customer3.png"), "0933333333", "新北市土城區", "我是第三任火影，必須給我三折", now(), "1", "", "", ""),
+("4444@gmail.com", "4444", "customer4", load_file("D:/shopping_cart_test_photo/member_info/customer4.jpg"), "0944444444", "新北市新莊區", "我是第四任火影，必須給我四折", now(), "1", "", "", ""),
+("5555@gmail.com", "5555", "customer5", load_file("D:/shopping_cart_test_photo/member_info/customer5.jpg"), "0955555555", "新北市新店區", "我是第五任火影，必須給我五折", now(), "1", "", "", "");
+
+
+-- ---------------order_list table---------------------------
+DROP TABLE IF EXISTS order_list;
+
+create table order_list(
+	order_id int primary key not null auto_increment,
+    order_status int not null,
+    order_total_money int not null,
+    order_time timestamp not null,
+    member_id  int not null,
+    constraint fk_member_id_member_info
+    foreign key (member_id)
+    references member_info (member_id)
+);
+
+insert into order_list (order_status, order_total_money, order_time, member_id)
+values
+("0", 10, now(), 1),
+("0", 20, now(), 2),
+("0", 30, now(), 3),
+("0", 40, now(), 4),
+("0", 50, now(), 5);
+
+-- ----------product_item table----------------
+drop table if exists product_item;
+
+create table product_item(
+	product_item_id int primary key not null auto_increment,
+    product_item_name varchar(40) not null,
+    product_intro text,
+    product_summary text,
+    product_stock_number int null
+);
+insert into product_item(product_item_name, product_intro, product_summary, product_stock_number)
+values
+("手裡劍1", "可以用來丟人", "可以讓人扣1滴血", 100),
+("手裡劍2", "可以用來丟人", "可以讓人扣2滴血", 200),
+("手裡劍3", "可以用來丟人", "可以讓人扣3滴血", 300),
+("手裡劍4", "可以用來丟人", "可以讓人扣4滴血", 400),
+("手裡劍5", "可以用來丟人", "可以讓人扣5滴血", 500);
+
+-- ----------order_detail table----------------
+drop table if exists order_detail;
+
+create table order_detail(
+	order_detail_id int primary key not null auto_increment,
+    product_quantity int not null,
+    order_id int not null,
+    product_item_id int,
+    constraint fk_order_detail1_order_list
+    foreign key (order_id) 
+    references order_list(order_id),
+    constraint fk1_order_list_product_item
+    foreign key (product_item_id)
+    references product_item(product_item_id)
+);
+insert into order_detail(product_quantity, order_id, product_item_id)
+values
+(1 , 1, 1),
+(2 , 2, 2),
+(3 , 3, 3),
+(4 , 4, 4),
+(5 , 5, 5);
+
+-- -----manage_system--------
+drop table if exists manage_system;
+
+create table manage_system(
+	manage_id int primary key not null auto_increment,
+    manage_name varchar(20) not null,
+    manage_status int not null,
+    manage_cel varchar(20) not null,
+    manage_mail varchar(20) not null,
+    manage_password varchar(20) not null,
+    manage_set_time timestamp not null
+);
+insert into manage_system(manage_name, manage_status, manage_cel, manage_mail, manage_password, manage_set_time)
+values
+("宇智波斑", 0, "0999999999", "9999@gmail.com", "9999", now()),
+("佩恩", 0, "0988888888", "8888@gmail.com", "8888", now()),
+("宇智波鼬", 0, "0977777777", "7777@gmail.com", "7777", now()),
+("大蛇丸", 0, "0966666666", "6666@gmail.com", "6666", now()),
+("蠍", 0, "0955555555", "5555@gmail.com", "5555", now());

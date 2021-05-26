@@ -501,3 +501,103 @@
 2021-05-26 16:39:05,997 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
 2021-05-26 16:39:05,999 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-05-26 16:39:05,999 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 16:52:50,693 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 16:52:50,693 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 16:52:50,694 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 16:52:50,695 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 16:55:39,566 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 16:55:39,566 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 16:55:39,569 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 16:55:39,569 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 16:59:51,447 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 16:59:51,447 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 16:59:51,448 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 16:59:51,448 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 17:00:24,656 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:00:24,656 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 17:00:24,658 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:00:24,658 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 17:01:05,176 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:01:05,176 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 17:01:05,177 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:01:05,177 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 17:01:18,757 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:01:18,757 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 17:01:18,758 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:01:18,758 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 17:02:17,645 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:02:17,645 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 17:02:17,647 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:02:17,647 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 17:03:06,598 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:03:06,598 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 17:03:06,600 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:03:06,600 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 17:03:13,941 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:03:13,941 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 17:03:13,943 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:03:13,943 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 17:03:42,698 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:03:42,699 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 17:03:42,699 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:03:42,699 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 17:03:51,166 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:03:51,166 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 17:03:51,168 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:03:51,168 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 17:04:00,936 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:04:00,936 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 17:04:00,938 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:04:00,938 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 17:04:07,398 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:04:07,398 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 17:04:07,400 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:04:07,400 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 17:04:26,096 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:04:26,096 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 17:04:26,097 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:04:26,097 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 17:04:42,015 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:04:42,015 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 17:04:42,019 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:04:42,020 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 17:04:47,541 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:04:47,541 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 17:04:47,542 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:04:47,542 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 17:05:46,304 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:05:46,304 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 17:05:46,305 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:05:46,305 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 17:06:24,935 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:06:24,935 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 17:06:24,936 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:06:24,937 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 17:06:32,444 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:06:32,444 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 17:06:32,445 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:06:32,446 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 17:10:44,570 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:10:44,571 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 17:10:44,574 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:10:44,574 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 17:11:21,777 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:11:21,777 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 17:11:21,778 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:11:21,778 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 17:11:34,806 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:11:34,806 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 17:11:34,806 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:11:34,806 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 17:14:41,620 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:14:41,620 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 17:14:41,623 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:14:41,623 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 17:14:43,757 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:14:43,758 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 17:14:43,761 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:14:43,761 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
+2021-05-26 17:30:28,778 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:30:28,779 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\main\resources
+2021-05-26 17:30:28,781 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-26 17:30:28,781 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\shopping_cart_test_project\shopping_cart_Artifact_Id\src\test\resources
